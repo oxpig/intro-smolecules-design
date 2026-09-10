@@ -2,6 +2,8 @@
 
 These materials are designed to help you learn the basics of computational small molecule drug design (small molecules are compounds smaller than proteins, typically containing around 20–70 heavy atoms). Using structure-based techniques, you will explore the key tools, concepts, and workflows through a series of interactive Jupyter notebooks. By the end you’ll be ready to explore how using computational tools can result in the discovery of your very own (virtual) drug candidates to cure Zika!
 
+**Presentation:** [presentation_DTC_Structural_Bio_Small_Molecules.pdf](./presentation_DTC_Structural_Bio_Small_Molecules.pdf)
+
 ⚠️ Disclaimer
 
 This repository is not a comprehensive guide to computational small molecule drug design. It reflects the perspectives and tool preferences of the authors and is intended for educational purposes only. These materials were developed with support from the [Doctoral Training Centre at the University of Oxford](https://www.dtc.ox.ac.uk/).
